@@ -1,0 +1,16 @@
+{
+  "name": "fenrid.js",
+  "version": "1.0.0",
+  "description": "todo",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "add keywords later!!"
+  ],
+  "author": "ImpulseDoes",
+  "license": "Apache-2.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
